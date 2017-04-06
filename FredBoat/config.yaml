@@ -1,5 +1,5 @@
 ---
-patron: false            # Change this to true for self hosting
+patron: true           # Change this to true for self hosting
 development: true
-prefix: '<<'
+prefix: '>>'
 restServerEnabled: true  # Change this if you are running multiple FredBoat bots on the same machine
