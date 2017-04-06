@@ -1,3 +1,1 @@
-$ git add .
-$ git commit -m "Procfile"
-$ git push heroku master
+worker: java -jar FredBoat-1.0.jar 16
